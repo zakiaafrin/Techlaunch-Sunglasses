@@ -1,9 +1,24 @@
+html {    
+    background-color: #f2e4e4;
+}
+
 /*navbar style*/
 .navbar {
 	background:#F97300;
 }
 
 /*header style*/
+.header {
+    background-color: #f2e4e4;
+}
+.container {
+    width: 100%;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    margin-right: 5rem; 
+    margin-left: 5rem;
+}
+
 .description {
     position: absolute;
     top: 25%;
