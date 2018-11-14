@@ -1,0 +1,25 @@
+/*navbar style*/
+.navbar {
+	background:#F97300;
+}
+
+/*header style*/
+.description {
+    position: absolute;
+    top: 25%;
+}
+
+.description h1 {
+    color:#F97300 ;
+}
+
+.description p {
+    color:black;
+    font-size: 1.3rem;
+    width: 50%;
+    line-height: 1.5;
+}
+
+.description button {
+    border: 2px  solid black;
+}
