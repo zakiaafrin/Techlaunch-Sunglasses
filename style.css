@@ -23,8 +23,3 @@
 .description button {
     border: 0.1em  solid black;
 }
-
-.btn btn-outline-secondary btn-lg {
-    outline: none;
-    background-color: white;
-}
