@@ -26,12 +26,13 @@ html {
 
 .description h1 {
     color:#bd2130;
+    text-align: justify;
 }
 
 .description p {
     color:black;
     font-size: 1.3rem;
-    width: 50%;
+    width: 70%;
     line-height: 1.5;
 }
 
